@@ -1,0 +1,1 @@
+# goz710.github.io
