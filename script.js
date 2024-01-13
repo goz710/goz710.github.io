@@ -26,7 +26,7 @@
 
    const loading = document.getElementById("loading");
    loading.style.display = "block";
-   const imageUrls = [];mmmm
+   const imageUrls = [];
 
       // Generate a number b/w 1 AND 10000 and append it to the prompt
    for(let i = 0; i < maxImages; i++){
